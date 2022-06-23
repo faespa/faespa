@@ -2,10 +2,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100"/>
 </p>
 
-<h1>I'm Fabian</h1>
-
-Foobar is a Python library for dealing with word pluralization.
-
+<h1 align="center">I'm Fabian</h1>
 
 ## Web
 <p align="left">
@@ -23,7 +20,7 @@ Foobar is a Python library for dealing with word pluralization.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50">    
   
-## Developer of Hybrid extensions in GNU
+##Hybrid extensions with GNU
 <br>    
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Gnu-head-30-years-anniversary.svg" width="70">
 </p>  
