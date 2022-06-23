@@ -16,11 +16,11 @@ pip install foobar
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50">
+
 <br>
 <br> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="50"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Restudio/Restudio-plain.svg" width="50"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/python-plain.svg" width="50">
 </p>  
 ```
 
@@ -35,5 +35,5 @@ Please make sure to update tests as appropriate.
 
 <br>
 >## Most Used Languages ⚒️
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giselle-ferreira&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="giselle-ferreira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faespa&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="giselle-ferreira" /></p>
 <br>
