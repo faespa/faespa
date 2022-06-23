@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
+
 # I'm Fabian
 
 Foobar is a Python library for dealing with word pluralization.
@@ -19,12 +20,12 @@ Foobar is a Python library for dealing with word pluralization.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50">
 <br>                                                                                                    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40">    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="45">    
   
 ## Developer of hybrid extensions in GNU
 <br>    
-  <img src="https://es.wikipedia.org/wiki/GNU#/media/Archivo:Heckert_GNU_white.svg" width="50">
+  <img src="https://www.muylinux.com/wp-content/uploads/2019/10/gnu.jpg" width="50">
 </p>  
 
 ## Technologies
