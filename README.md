@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100"/>
 </p>
 
-# I'm Fabian
+<h1>I'm Fabian</h1>
 
 Foobar is a Python library for dealing with word pluralization.
 
@@ -25,7 +25,7 @@ Foobar is a Python library for dealing with word pluralization.
   
 ## Developer of hybrid extensions in GNU
 <br>    
-  <img src="https://www.muylinux.com/wp-content/uploads/2019/10/gnu.jpg" width="50">
+  <img src="https://es.m.wikipedia.org/wiki/Archivo:Heckert_GNU_white.svg" width="50">
 </p>  
 
 ## Technologies
