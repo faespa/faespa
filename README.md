@@ -33,7 +33,6 @@
 
 ## Technologies
 
-![DevStack's github stats](https://github-readme-stats.vercel.app/api?username=faespa)
 [![Faespa's GitHub stats](https://github-readme-stats.vercel.app/api?username=faespa&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/faespa/github-readme-stats)
 <br>
 
