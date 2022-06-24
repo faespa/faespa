@@ -24,17 +24,20 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50">
+</p>  
   
 ## GNU For Hybrid extensions 
-<br>    
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Gnu-head-30-years-anniversary.svg" width="70">
 </p>  
 
 ## Technologies
+<p>
 ![DevStack's github stats](https://github-readme-stats.vercel.app/api?username=faespa)
+</p>
 
-
-<br>
 ## Most Used Languages
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faespa&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="giselle-ferreira" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faespa&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="giselle-ferreira" />
+</p>
 <br>
