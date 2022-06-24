@@ -20,7 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50">    
   
-##Hybrid extensions with GNU
+## SBC
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50">
+  
+## GNU For Hybrid extensions 
 <br>    
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Gnu-head-30-years-anniversary.svg" width="70">
 </p>  
