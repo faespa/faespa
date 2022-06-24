@@ -4,6 +4,9 @@
 
 <h1 align="center">I'm Fabian</h1>
 
+<h2>Technologies</h2>
+<br>
+
 ## Web
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50">
@@ -31,7 +34,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Gnu-head-30-years-anniversary.svg" width="70">
 </p>  
 
-## Technologies
+## Stats
 
 [![Faespa's GitHub stats](https://github-readme-stats.vercel.app/api?username=faespa&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/faespa/github-readme-stats)
 <br>
