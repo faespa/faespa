@@ -4,7 +4,7 @@
 
 <h1 align="center">I'm Fabian</h1>
 
-<h2>Technologies</h2>
+>## Technologies
 <br>
 
 ## Web
